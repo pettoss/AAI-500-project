@@ -35,12 +35,12 @@ Healthcare Dataset for Age vs Gender Analysis
 **Multi-category Classification:** The dataset supports multi-category classification problems, enabling the development of predictive models to classify health outcomes based on age and gender.
 
 
-**Partner(s)/Contributor(s)** 
+# Partner(s)/Contributor(s)
 - Peter Ogunrinde
 - Krystina Lorch
 - Ahmad Milad
 
-**Methods Used** 
+# Methods Used
 - Machine Learning
 - Data Manipulation
 - Data Visualization
@@ -50,7 +50,25 @@ Healthcare Dataset for Age vs Gender Analysis
 **Technologies** 
 - Python
 
+# Questions and Hypotheses
+**- Trends Analysis:** How do healthcare utilization patterns vary across different age groups and genders?
+**- Disparities Identification:** Are there any significant disparities in healthcare access and outcomes between different genders and age groups?
+**- Predictive Modeling:** Can we predict the occurrence of certain medical conditions based on patient demographics and other health attributes?
 
+# Analysis, Visualization, and Modeling
+- **Data Analysis:** Descriptive statistics to summarize the data and understand central tendencies and dispersions.
+- **Data Visualization:**
+   - Histograms and count plots for age and gender distributions.
+   - Bar plots and stacked bar plots for analyzing the distribution of medical conditions and blood types by gender and age groups.
+ - **Modeling Work:**
+   - Logistic Regression, Random Forest, and Gradient Boosting models to predict the occurrence of cancer.
+   - Confusion matrices to evaluate model performance.
+   - Age and gender group analyses to visualize model performance.
+     
+# Roadblocks and Challenges
+- Addressing missing values, duplicates, and inconsistencies in the dataset.
+- Balancing precision and recall, especially for minority classes in the target variable.
+- Managing computational efficiency for training models on a relatively large dataset.
 
 # Reference:
 Prasad, M. (2022). Healthcare Dataset for Age vs Gender. Kaggle. Retrieved from https://www.kaggle.com/datasets/prasad22/healthcare-dataset
