@@ -52,7 +52,9 @@ Healthcare Dataset for Age vs Gender Analysis
 
 # Questions and Hypotheses
 **- Trends Analysis:** How do healthcare utilization patterns vary across different age groups and genders?
+
 **- Disparities Identification:** Are there any significant disparities in healthcare access and outcomes between different genders and age groups?
+
 **- Predictive Modeling:** Can we predict the occurrence of certain medical conditions based on patient demographics and other health attributes?
 
 # Analysis, Visualization, and Modeling
