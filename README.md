@@ -12,7 +12,9 @@ Here is a sample instructions:
   git init
   git clone https://github.com/pettoss/AAI-500-project.git
 
-**Project Intro/Objective:** The objective of this project is to investigate the patterns of healthcare utilization across different age groups and genders using a comprehensive healthcare dataset. By analyzing the dataset, the aim is to identify trends, disparities, and potential areas for targeted healthcare interventions. This analysis will provide actionable insights to inform healthcare policies and improve service delivery to meet the needs of diverse populations.
+# Project Intro/Objective:
+The objective of this project is to investigate the patterns of healthcare utilization across different age groups and genders using a comprehensive healthcare dataset. By analyzing the dataset, the aim is to identify trends, disparities, and potential areas for targeted healthcare interventions. This analysis will provide actionable insights to inform healthcare policies and improve service delivery to meet the needs of diverse populations.
+
 # AAI-500-project
 **Understanding Healthcare Needs: Age and Gender Trends in Medical Data**
 
