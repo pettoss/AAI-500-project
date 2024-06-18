@@ -4,8 +4,11 @@
 This project is a part of the AAI-500 course in the Applied Artificial Intelligence Program at the University of San Diego (USD). 
 
 **Installation:** 
+
 Here is a sample instructions:
+  
   To us this project, first clone the repo on your device using command below.
+  
   git init
   git clone https://github.com/pettoss/AAI-500-project.git
 
