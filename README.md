@@ -1,3 +1,8 @@
+# Project Title
+**Understanding Healthcare Needs: Age and Gender Trends in Medical Data**
+
+This project is a part of the AAI-500 course in the Applied Artificial Intelligence Program at the University of San Diego (USD). 
+
 # AAI-500-project
 **Understanding Healthcare Needs: Age and Gender Trends in Medical Data**
 
