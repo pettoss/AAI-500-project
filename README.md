@@ -51,11 +51,9 @@ Healthcare Dataset for Age vs Gender Analysis
 - Python
 
 # Questions and Hypotheses
-**- Trends Analysis:** How do healthcare utilization patterns vary across different age groups and genders?
-
-**- Disparities Identification:** Are there any significant disparities in healthcare access and outcomes between different genders and age groups?
-
-**- Predictive Modeling:** Can we predict the occurrence of certain medical conditions based on patient demographics and other health attributes?
+- **Trends Analysis:** How do healthcare utilization patterns vary across different age groups and genders?
+- **Disparities Identification:** Are there any significant disparities in healthcare access and outcomes between different genders and age groups?
+- **Predictive Modeling:** Can we predict the occurrence of certain medical conditions based on patient demographics and other health attributes?
 
 # Analysis, Visualization, and Modeling
 - **Data Analysis:** Descriptive statistics to summarize the data and understand central tendencies and dispersions.
