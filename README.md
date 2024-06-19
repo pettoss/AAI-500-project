@@ -10,6 +10,7 @@ Here is a sample instructions:
   To us this project, first clone the repo on your device using command below.
   
   git init
+  
   git clone https://github.com/pettoss/AAI-500-project.git
 
 # Project Intro/Objective:
@@ -49,6 +50,8 @@ Healthcare Dataset for Age vs Gender Analysis
 
 **Technologies** 
 - Python
+- Jupyter Notebooks for code documentation
+- Visualizations using Matplotlib and Seaborn
 
 # Questions and Hypotheses
 - **Trends Analysis:** How do healthcare utilization patterns vary across different age groups and genders?
