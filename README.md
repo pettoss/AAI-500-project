@@ -36,7 +36,7 @@ Healthcare Dataset for Age vs Gender Analysis
 **Multi-category Classification:** The dataset supports multi-category classification problems, enabling the development of predictive models to classify health outcomes based on age and gender.
 
 
-# Partner(s)/Contributor(s)
+# Partners/Contributors
 - Peter Ogunrinde
 - Krystina Lorch
 - Ahmad Milad
